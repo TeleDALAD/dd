@@ -33,7 +33,7 @@ return {
 
   usage = "feedback : پیام خود را ارسال کنید",
   patterns = {
-    "^[Ff]eedback (.*)$"
+    "^[!/][Ff]eedback (.*)$"
 
   },
   run = run
