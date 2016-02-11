@@ -230,7 +230,6 @@ function create_config( )
     "feedback",
     "echo",
     "filter",
-    "botoffon",
     "lockchat",
     "webshot",
     "info"
