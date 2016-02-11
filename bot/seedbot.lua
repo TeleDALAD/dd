@@ -230,9 +230,7 @@ function create_config( )
     "feedback",
     "echo",
     "filter",
-    "lockchat",
-    "webshot",
-    "info"
+    "webshot"
     },
     sudo_users = {175623013,139274725},--Sudo users
     disabled_channels = {},
