@@ -2,4 +2,4 @@
 
 #[More info](https://telegram.me/Iran_dalad)
 
-[By a.k](ttps://telegram.me/Dalad2
+[By a.k](ttps://telegram.me/Dalad2)
